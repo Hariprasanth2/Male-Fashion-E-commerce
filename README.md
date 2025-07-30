@@ -43,7 +43,7 @@ This is a fully responsive front-end e-commerce website for men's fashion built 
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://your-username.github.io/mens-fashion-ecommerce/)
+👉 [Click here to view the live site](https://hariprasanth2.github.io/Male-Fashion-E-commerce/)
 
 
 
