@@ -39,6 +39,23 @@ This is a fully responsive front-end e-commerce website for men's fashion built 
 - Font Awesome & Google Fonts
 - Owl Carousel & other JS libraries
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://your-username.github.io/mens-fashion-ecommerce/)
+
+
+## 📷 Screenshots
+
+### 🏠 Homepage
+![Home Page](screenshots/home.png)
+
+### 🛒 Shop Page
+![Shop Page](screenshots/shop.png)
+
+### 🧾 Cart Page
+![Cart Page](screenshots/cart.png)
+
+
 ---
 
 > This is a static front-end template. Backend integration (login, payment, database) is not included but can be added easily.
