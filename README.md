@@ -1,13 +1,6 @@
 # 🧥 Male Fashion E-Commerce Website
 
 This is a fully responsive front-end e-commerce website for men's fashion built using **HTML**, **CSS**, and **JavaScript**. It features multiple pages including home, shop, product details, shopping cart, checkout, and contact.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hariprasanth2/Male-Fashion-E-commerce/main/Live.png" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">🧥 Male Fashion E-Commerce</h1>
-<p align="center">A sleek and responsive fashion store front-end using HTML, CSS, and JavaScript.</p>
-
 
 ## 🔗 Live Demo
 
