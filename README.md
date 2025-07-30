@@ -2,6 +2,8 @@
 
 This is a fully responsive front-end e-commerce website for men's fashion built using **HTML**, **CSS**, and **JavaScript**. It features multiple pages including home, shop, product details, shopping cart, checkout, and contact.
 
+![image alt](https://github.com/Hariprasanth2/Male-Fashion-E-commerce/blob/f1185879f3f35b073e804c082d0aeed32bab6554/Live.png)
+
 ## 🚀 Features
 
 - ✅ Clean and modern UI
