@@ -2,6 +2,10 @@
 
 This is a fully responsive front-end e-commerce website for men's fashion built using **HTML**, **CSS**, and **JavaScript**. It features multiple pages including home, shop, product details, shopping cart, checkout, and contact.
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://hariprasanth2.github.io/Male-Fashion-E-commerce/)
+
 ![image alt](https://github.com/Hariprasanth2/Male-Fashion-E-commerce/blob/f1185879f3f35b073e804c082d0aeed32bab6554/Live.png)
 
 ## 🚀 Features
@@ -41,16 +45,12 @@ This is a fully responsive front-end e-commerce website for men's fashion built 
 - Font Awesome & Google Fonts
 - Owl Carousel & other JS libraries
 
-## 🔗 Live Demo
-
-👉 [Click here to view the live site](https://hariprasanth2.github.io/Male-Fashion-E-commerce/)
-
 
 ## 📖 About This Project
 
 This project is a **Male Fashion E-Commerce Website** built using only front-end technologies like **HTML**, **CSS**, and **JavaScript**. It is a modern, responsive shopping site where users can browse products, view details, and add items to a shopping cart.
 
-It's designed as a portfolio project or a starting point for building a complete online shopping platform with backend integration (like PHP, Node.js, or Java + MySQL) in the future.
+It's designed as a portfolio project or a starting point for building a complete online shopping platform with backend integration.
 
 ---
 
